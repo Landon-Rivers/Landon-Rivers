@@ -1,5 +1,5 @@
 ### Hello, I'm Landon, an individual who is learning IT
-
+https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcGFildWMRig/edit#bookmark=id.rk87dmtlcuw2
 <!--
 **Landon-Rivers/Landon-Rivers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
