@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Landon, an individual who is learning IT
 
 <!--
 **Landon-Rivers/Landon-Rivers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
