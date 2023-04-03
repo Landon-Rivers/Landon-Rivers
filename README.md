@@ -15,4 +15,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/landon-rivers
+[linkedin]: https://linkedin.com/in/landon-rivers-52400034
