@@ -1,4 +1,4 @@
-### Hello, I'm Landon, an IT P.rofessional
+### Hello, I'm Landon, an IT Professional.
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
